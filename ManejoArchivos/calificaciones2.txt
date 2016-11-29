@@ -1,0 +1,4 @@
+Luis;Alvarez;10;15
+Milena;Ramos;5;18
+Andres;Mendez;20;20
+Dario;Lopez;13;1
